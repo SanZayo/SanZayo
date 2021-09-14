@@ -1,6 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Santosh M</h1>
 <h3 align="center">A smart and passionate frontend developer!</h3>
-<br/>
 
 - 🌱 I’m currently learning **MongoDB, GraphQL & Flutter**
 
@@ -26,7 +25,15 @@
 <a href="https://github-readme-stats.vercel.app/api?username=sanzayo&show_icons=true&locale=en">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzayo&show_icons=true&locale=en" alt="sanzayo" />
 </a>
+<br/>
+<br/>
 <a href="https://github-readme-stats.vercel.app/api?username=sanzayo&show_icons=true&locale=en">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzayo" alt="sanzayo" />
 </a>
 
+
+<br/>
+
+<br/>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
