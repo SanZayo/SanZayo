@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **MongoDB, GraphQL & Flutter**
 
-- 👨‍💻 All of my projects are available at [http://santoshm.dev](http://santoshm.dev)
+- 👨‍💻 All of my projects are available at [https://santoshm.dev](https://santoshm.dev)
 
 - 💬 Ask me about **JavaScript, TypeScript, React, jQuery.**
 
 - 📫 How to reach me **santoshm.dev@gmail.com**
 
-- 📄 Know about my experiences [http://resume.santoshm.dev](http://resume.santoshm.dev)
+- 📄 Know about my experiences [https://resume.santoshm.dev](https://resume.santoshm.dev)
 
 
 <br/>
