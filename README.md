@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋, I'm Santosh M</h1>
 <h3 align="center">A smart and passionate frontend developer!</h3>
 
-- 🌱 I’m currently learning **MongoDB, GraphQL & Flutter**
+- 🌱 I’m currently exploring **MongoDB, GraphQL & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://santoshm.dev](https://santoshm.dev)
 
