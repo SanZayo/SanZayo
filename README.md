@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://santoshm.dev](https://santoshm.dev)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, jQuery.**
+- 💬 Ask me about **JavaScript, TypeScript, React**
 
 - 📫 How to reach me **santoshm.dev@gmail.com**
 
