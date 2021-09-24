@@ -120,18 +120,14 @@
   <div align="center">
     <p align="left">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzayo&layout=compact&langs_count=7&hide=processing&card_width=320"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzayo&layout=compact&langs_count=7&hide=processing&card_width=300"
         alt="Top Languages" height="175" />
       &nbsp;
       <img
-        src="https://github-readme-stats.vercel.app/api?username=sanzayo&show_icons=true&include_all_commits=true&count_private=true&card_width=320"
+        src="https://github-readme-stats.vercel.app/api?username=sanzayo&show_icons=true&include_all_commits=true&count_private=true"
         alt="GitHub stats" height="175" />
       &nbsp;
-    </p>
-  </div>
-  <div align="center">
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzayo&card_width=320" alt="sanzayo"
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzayo&card_width=300" alt="sanzayo"
         height="175" />
     </p>
   </div>
