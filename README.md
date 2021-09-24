@@ -2,11 +2,11 @@
 <h3 align="center">A smart and passionate frontend developer!</h3>
 <br />
 
-- 🌱 I’m currently exploring **MongoDB, GraphQL & Flutter** - 👨‍💻 All of my projects are available at
-[https://santoshm.dev](https://santoshm.dev)
-- 💬 Ask me about **JavaScript, TypeScript, React, jQuery.** - 📫 How to reach me **santoshm.dev@gmail.com** - 📄 Know
-about my experiences
-[https://resume.santoshm.dev](https://resume.santoshm.dev)
+- 🌱 I’m currently exploring **MongoDB, GraphQL & Flutter** 
+- 👨‍💻 All of my projects are available at [https://santoshm.dev](https://santoshm.dev)
+- 💬 Ask me about **JavaScript, TypeScript, React, jQuery.**
+- 📫 How to reach me **santoshm.dev@gmail.com**
+- 📄 Know about my experiences [https://resume.santoshm.dev](https://resume.santoshm.dev)
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
@@ -20,10 +20,6 @@ about my experiences
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-      width="40" height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
